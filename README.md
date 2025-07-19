@@ -1,1 +1,3 @@
-This project was created as a learning example to explore and understand the capabilities of GSAP (GreenSock Animation Platform) in modern web development. It demonstrates how to implement smooth and interactive animations using GSAP, including timeline control, scroll-based triggers, and element transitions. The goal is to build a hands-on experience with GSAP to enhance front-end animation skills and apply them to real-world web interfaces.
+Credits:
+
+This project was inspired by learning materials and tutorials from JavaScript Mastery, whose content provided valuable guidance and best practices for using GSAP in web development.
